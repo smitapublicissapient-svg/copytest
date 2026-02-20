@@ -1,0 +1,21 @@
+{
+  "name": "email-html-fetcher-final",
+  "version": "3.0.0",
+  "description": "Email HTML Fetcher - Working with regular passwords",
+  "main": "middleware-final.js",
+  "scripts": {
+    "start": "node middleware-final.js"
+  },
+  "keywords": ["imap", "email", "html", "sfmc"],
+  "author": "SFMC Developer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "imap": "^0.8.19",
+    "mailparser": "^3.6.5",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
