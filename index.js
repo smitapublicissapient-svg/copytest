@@ -375,7 +375,7 @@ const server = app.listen(PORT, () => {
     console.log('   - Searches last 50 emails only');
     console.log('   - Header scan first (fast)');
     console.log('   - Full fetch only when matched');
-    console.log('   - 2-minute timeout limit');echo "# copytest" >> README.md
+    console.log('   - 2-minute timeout limit');
     console.log('='.repeat(60));
     console.log('📝 Ready for requests...');
     console.log('='.repeat(60));
